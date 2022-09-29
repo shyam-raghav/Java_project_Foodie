@@ -132,7 +132,13 @@ public class Program {
         session.close();
         
         HibernatePersistence.getSessionFactory().close();
+<<<<<<< HEAD
         System.out.println("Shyam Raghav Tathineni");
+=======
+        
+        System.out.println("rohit");
+
+>>>>>>> 675e1f00d0c411275f673ebbb5194739ffe60c70
 	}
 
 }
